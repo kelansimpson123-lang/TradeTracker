@@ -1,2 +1,0 @@
-# TreadeTracker
-Track my trades
